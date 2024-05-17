@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@bytescale/sdk": "^3.31.1",
-    "@bytescale/upload-widget-react": "^4.18.0",
+    "@bytescale/upload-widget-react": "^4.19.0",
     "@dotlottie/react-player": "^1.6.17",
     "@headlessui/react": "^1.7.18",
     "@rive-app/react-canvas": "^4.8.3",
